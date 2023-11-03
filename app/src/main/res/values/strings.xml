@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SensorTemperaturaHumedad</string>
+    <string name="Temp">°</string>
+    <string name="Humed">%</string>
+</resources>
